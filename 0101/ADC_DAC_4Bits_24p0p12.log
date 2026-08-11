@@ -1,0 +1,133 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\adant\OneDrive\Documentos\LTspice\0101\ADC_DAC_4Bits.asc
+Start Time: Sun Jun 29 10:35:33 2025
+U1:ai4: all pins shorted together -- ignoring.
+U1:ai5: all pins shorted together -- ignoring.
+U1:ai6: all pins shorted together -- ignoring.
+U1:ai7: all pins shorted together -- ignoring.
+U1:ai8: all pins shorted together -- ignoring.
+U1:ai9: all pins shorted together -- ignoring.
+U1:ai10: all pins shorted together -- ignoring.
+U1:ai11: all pins shorted together -- ignoring.
+U1:ai12: all pins shorted together -- ignoring.
+U1:ai13: all pins shorted together -- ignoring.
+U1:ai14: all pins shorted together -- ignoring.
+U1:ai15: all pins shorted together -- ignoring.
+U1:g4: all pins shorted together -- ignoring.
+U1:g5: all pins shorted together -- ignoring.
+U1:g6: all pins shorted together -- ignoring.
+U1:g7: all pins shorted together -- ignoring.
+U1:g8: all pins shorted together -- ignoring.
+U1:g9: all pins shorted together -- ignoring.
+U1:g10: all pins shorted together -- ignoring.
+U1:g11: all pins shorted together -- ignoring.
+U1:g12: all pins shorted together -- ignoring.
+U1:g13: all pins shorted together -- ignoring.
+U1:g14: all pins shorted together -- ignoring.
+U1:g15: all pins shorted together -- ignoring.
+U1:ao4: all pins shorted together -- ignoring.
+U1:ao5: all pins shorted together -- ignoring.
+U1:ao6: all pins shorted together -- ignoring.
+U1:ao7: all pins shorted together -- ignoring.
+U1:ao8: all pins shorted together -- ignoring.
+U1:ao9: all pins shorted together -- ignoring.
+U1:ao10: all pins shorted together -- ignoring.
+U1:ao11: all pins shorted together -- ignoring.
+U1:ao12: all pins shorted together -- ignoring.
+U1:ao13: all pins shorted together -- ignoring.
+U1:ao14: all pins shorted together -- ignoring.
+U1:ao15: all pins shorted together -- ignoring.
+U2:a15: all pins shorted together -- ignoring.
+U2:a14: all pins shorted together -- ignoring.
+U2:a13: all pins shorted together -- ignoring.
+U2:a12: all pins shorted together -- ignoring.
+U2:a11: all pins shorted together -- ignoring.
+U2:a10: all pins shorted together -- ignoring.
+U2:a9: all pins shorted together -- ignoring.
+U2:a8: all pins shorted together -- ignoring.
+U2:a7: all pins shorted together -- ignoring.
+U2:a6: all pins shorted together -- ignoring.
+U2:a5: all pins shorted together -- ignoring.
+U2:a4: all pins shorted together -- ignoring.
+U3:ai4: all pins shorted together -- ignoring.
+U3:ai5: all pins shorted together -- ignoring.
+U3:ai6: all pins shorted together -- ignoring.
+U3:ai7: all pins shorted together -- ignoring.
+U3:ai8: all pins shorted together -- ignoring.
+U3:ai9: all pins shorted together -- ignoring.
+U3:ai10: all pins shorted together -- ignoring.
+U3:ai11: all pins shorted together -- ignoring.
+U3:ai12: all pins shorted together -- ignoring.
+U3:ai13: all pins shorted together -- ignoring.
+U3:ai14: all pins shorted together -- ignoring.
+U3:ai15: all pins shorted together -- ignoring.
+U3:g4: all pins shorted together -- ignoring.
+U3:g5: all pins shorted together -- ignoring.
+U3:g6: all pins shorted together -- ignoring.
+U3:g7: all pins shorted together -- ignoring.
+U3:g8: all pins shorted together -- ignoring.
+U3:g9: all pins shorted together -- ignoring.
+U3:g10: all pins shorted together -- ignoring.
+U3:g11: all pins shorted together -- ignoring.
+U3:g12: all pins shorted together -- ignoring.
+U3:g13: all pins shorted together -- ignoring.
+U3:g14: all pins shorted together -- ignoring.
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v3.  Increasing period to 2.01e-09
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:104)
+Ignoring empty pin current: Ix(u1:105)
+Ignoring empty pin current: Ix(u1:106)
+Ignoring empty pin current: Ix(u1:107)
+Ignoring empty pin current: Ix(u1:108)
+Ignoring empty pin current: Ix(u1:109)
+Ignoring empty pin current: Ix(u1:110)
+Ignoring empty pin current: Ix(u1:111)
+Ignoring empty pin current: Ix(u1:112)
+Ignoring empty pin current: Ix(u1:113)
+Ignoring empty pin current: Ix(u1:114)
+Ignoring empty pin current: Ix(u1:115)
+Ignoring empty pin current: Ix(u2:104)
+Ignoring empty pin current: Ix(u2:105)
+Ignoring empty pin current: Ix(u2:106)
+Ignoring empty pin current: Ix(u2:107)
+Ignoring empty pin current: Ix(u2:108)
+Ignoring empty pin current: Ix(u2:109)
+Ignoring empty pin current: Ix(u2:110)
+Ignoring empty pin current: Ix(u2:111)
+Ignoring empty pin current: Ix(u2:112)
+Ignoring empty pin current: Ix(u2:113)
+Ignoring empty pin current: Ix(u2:114)
+Ignoring empty pin current: Ix(u2:115)
+Ignoring empty pin current: Ix(u3:in)
+Ignoring empty pin current: Ix(u1:104)
+Ignoring empty pin current: Ix(u1:105)
+Ignoring empty pin current: Ix(u1:106)
+Ignoring empty pin current: Ix(u1:107)
+Ignoring empty pin current: Ix(u1:108)
+Ignoring empty pin current: Ix(u1:109)
+Ignoring empty pin current: Ix(u1:110)
+Ignoring empty pin current: Ix(u1:111)
+Ignoring empty pin current: Ix(u1:112)
+Ignoring empty pin current: Ix(u1:113)
+Ignoring empty pin current: Ix(u1:114)
+Ignoring empty pin current: Ix(u1:115)
+Ignoring empty pin current: Ix(u2:104)
+Ignoring empty pin current: Ix(u2:105)
+Ignoring empty pin current: Ix(u2:106)
+Ignoring empty pin current: Ix(u2:107)
+Ignoring empty pin current: Ix(u2:108)
+Ignoring empty pin current: Ix(u2:109)
+Ignoring empty pin current: Ix(u2:110)
+Ignoring empty pin current: Ix(u2:111)
+Ignoring empty pin current: Ix(u2:112)
+Ignoring empty pin current: Ix(u2:113)
+Ignoring empty pin current: Ix(u2:114)
+Ignoring empty pin current: Ix(u2:115)
+Ignoring empty pin current: Ix(u3:in)
+Total elapsed time: 0.034 seconds.
+

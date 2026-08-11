@@ -1,0 +1,24 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\adant\OneDrive\Documentos\LTspice\0101\ADC_DAC_4Bits.net
+Start Time: Sun Jun 29 10:37:16 2025
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+C:\Users\adant\OneDrive\Documentos\LTspice\0101\ADC_DAC_4Bits.net(3): WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton. Increasing period to 2.01e-09.
+
+V3 IN 0 PULSE(0 15 {1/fclk} {1/fclk} {1/fclk} {0.01/fclk} {0.5/fclk})
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WARNING: Node u2:103 is floating.
+WARNING: Node u2:102 is floating.
+WARNING: Node u2:101 is floating.
+WARNING: Node u2:100 is floating.
+
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.130 seconds.
+
+Files loaded:
+C:\Users\adant\OneDrive\Documentos\LTspice\0101\ADC_DAC_4Bits.net
+C:\Users\adant\OneDrive\Documentos\LTspice\0101\0101.sub
+
